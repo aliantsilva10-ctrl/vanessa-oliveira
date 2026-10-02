@@ -1,0 +1,16 @@
+VERSÃO CORRIGIDA — FOTOS MANTIDAS
+
+Esta versão foi reconstruída a partir do pacote completo anterior da Vanessa.
+
+MANTIDOS:
+- assets/vanessa-hero.jpeg
+- assets/vanessa-meditacao.jpeg
+- assets/vanessa-luz.jpeg
+- restante do layout, textos, pilares, manifesto, Instagram e animações
+
+ALTERADO SOMENTE:
+- antiga capa simulada "DE VOLTA A SI"
+- nova capa: assets/capa-desperte-para-quem-voce-e.jpeg
+- mockup da capa agora em 3D com lombada, páginas, profundidade, sombra e reflexo
+
+Abra index.html com Live Server.
